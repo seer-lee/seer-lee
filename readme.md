@@ -4,6 +4,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seer-lee&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seer-lee)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seer-lee)
 
 ![Footer](https://capsule-render.vercel.app/api?type=Waving&&color=timeAuto&height=200&section=footer)
