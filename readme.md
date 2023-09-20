@@ -27,7 +27,7 @@
 		- 학습자 수강정보, 게임진도 API
 		- 예약시 일정 확인 API
 		- 레디스를 사용한 예약 API
-    		- 강사 스케줄 조회 API
+    	- 강사 스케줄 조회 API
 	- AWS presigned url을 이용한 s3 저장용 서버 구축
 	- 호두랩스, 호두잉글리시 사이트 유지보수 및 퍼블리싱(Figma를 통해 웹디자이너와 협업)
 	- 백오피스 기능 개선 및 신규 기능 추가 및 UI변경(리뉴얼) 진행
@@ -36,7 +36,7 @@
 		- 파이어스토어를 이용한 컨텐츠 등록 기능 구현
 		- 결제 내역에 환불 기능 추가
 		- UI 변경을 통해 불필요한 이동을 줄여 CX 업무 효율 개선
-	- jira, Figma, slack을 통해 협업
+	- Jira, Figma, Slack을 통해 협업
 - **한국직업개발원** [2019-07 - 2021-08] - 2년 2개월(LMS 개발자)
 	- 원격훈련기관 현장평가 심사평가 통과
 	- 사내 백오피스 개발 및 유지보수
@@ -60,7 +60,7 @@ Spring Boot / Java / MySQL
 Vanila Javascript / ASP / Oracle / PHP / Stored Procedure / Firebase / SQLServer / Redis / Vercel / Kotlin
 
 ### Etc 
-Git / Docker / Obsidian / IntelliJ IDEA / ChatGPT
+Git / Docker / Obsidian / IntelliJ IDEA / ChatGPT / Jira
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seer-lee)
