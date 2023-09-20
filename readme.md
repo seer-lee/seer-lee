@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Hi!%20I'm%20Jiseong&fontSize=45)
   
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94)](https://git.io/typing-svg) -->
 ## About Me
 
 안녕하세요.
@@ -53,35 +52,15 @@
 ### Contact
 - **Email**: gdaw3440@gmail.com
 
-### Stack
+### Strong
+Spring Boot / Java / MySQL
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-springboot-6DB33F?logo=SpringBoot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
-![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
-### I've used
+### Knowledgeable
+Vanila Javascript / ASP / Oracle / PHP / Stored Procedure / Firebase / SQLServer / Redis / Vercel / Kotlin
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
-![ASP](https://img.shields.io/badge/asp-white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white)
-![Generic badge](http://img.shields.io/badge/stored_procedure-blue)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
-
-### Tools 
-
-![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?logo=Obsidian&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+### Etc 
+Git / Docker / Obsidian / IntelliJ IDEA / ChatGPT
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seer-lee)
